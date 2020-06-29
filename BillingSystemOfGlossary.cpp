@@ -269,7 +269,7 @@ float out,*ptr;
      int main()
      {
       store s;
-         cout<<"Welcome to SHREE Super Market\n";
+         cout<<"Welcome to Vishakha Super Market\n";
           s.list();
             s.display();
               s.edit();
